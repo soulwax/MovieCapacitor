@@ -1,0 +1,16 @@
+{
+  "name": "dabox-ble-proto",
+  "integrations": {
+    "capacitor": {},
+    "enterprise": {
+      "keyId": 12418,
+      "productKey": "key_d271fe06680a47e99e7738c0eec6e289",
+      "appId": "55cc415d",
+      "orgId": "bd4153ba-9085-4e8f-9bb0-09633300a90e",
+      "registries": [
+        "@ionic-enterprise;https://registry.ionicframework.com/"
+      ]
+    }
+  },
+  "type": "angular"
+}
