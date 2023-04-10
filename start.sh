@@ -1,8 +1,8 @@
 npm install -g @ionic/cli
 
-ionic start dabox-ble-proto blank --type=angular
+ionic start movie-capacitor blank --type=angular
 
-cd dabox-ble-proto
+cd movie-capacitor
 
 npm install
 ionic cap copy

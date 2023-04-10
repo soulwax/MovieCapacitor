@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'dabox-ble-proto',
+  appName: 'movie-capacitor',
   webDir: 'www',
   bundledWebRuntime: false,
   plugins: {

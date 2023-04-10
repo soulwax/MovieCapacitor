@@ -88,7 +88,3 @@ packages/react-router/test/build/
 
 # ionic www
 www/
-
-# environments
-/src/environments/environment.ts
-/src/environments/environment.prod.ts
