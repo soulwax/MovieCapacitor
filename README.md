@@ -1,7 +1,8 @@
 
-# Dabox BLE Prototype
+# Movie Capacitor
 
 For Debugging and Prototyping BLE on iOS and Mobile Devices using ionic v6 with angular v15.
+Ended up being a movie application for all platforms.
 
 ## Prerequisites
 

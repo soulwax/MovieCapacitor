@@ -12,7 +12,6 @@ ionic serve # run in web-browser (no native functions)
 ionic capacitor run android --livereload --external --open
 
 # Use the CLI to generate some pages and a service
-ionic generate page pages/dabox
 ionic generate page pages/scan
 ionic generate service services/ble
 
